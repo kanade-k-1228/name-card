@@ -7,7 +7,7 @@
     <path style="fill:none; stroke-width:15; stroke:hsl(152, 57%, 54%);" stroke-linejoin="round" d="
         M 280 210,
         l 100 100,
-        H 830,
+        H 825,
         L 860 275" />
     <circle cx="860" cy="275" r="20" style="fill:#FFFFFF;" />
     <circle cx="860" cy="275" r="20" style="stroke:#fec002; stroke-width:10; fill:none;" />
