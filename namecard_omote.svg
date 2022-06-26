@@ -6,7 +6,7 @@
     <!-- 配線 -->
     <path style="fill:none; stroke-width:5; stroke:hsl(152, 57%, 54%);" stroke-linejoin="round" d="
         M 300 -10,
-        l 50 50,
+        l 60 60,
         H 490,
         a 10 10 180 0 0 10 -10,
         a 10 10 180 0 1 20 0, v 20, a 10 10 180 0 0 20 0, v -20,
@@ -26,15 +26,15 @@
     <circle cx="860" cy="275" r="20" style="stroke:#fec002; stroke-width:10; fill:none;" />
 
     <!-- 名前テキスト -->
-    <text x="350" y="200" fill="#FFFFFF" font-size="150">Kanade</text>
+    <text x="350" y="200" fill="#FFFFFF" font-size="140">Kanade</text>
     <text x="410" y="270" fill="#FFFFFF" font-size="40">@kanade_k_1228</text>
 
     <!-- アイコン画像 -->
     <clipPath id="icon-clip">
-        <circle cx="170" cy="170" r="150" />
+        <circle cx="180" cy="180" r="150" />
     </clipPath>
-    <image xlink:href="./img/avatar.png" x="20" y="20" height="300" width="300" clip-path="url(#icon-clip)" />
-    <circle cx="170" cy="170" r="150" style="stroke:#fec002; stroke-width:20; fill:none;" />
+    <image xlink:href="./img/avatar.png" x="30" y="30" height="300" width="300" clip-path="url(#icon-clip)" />
+    <circle cx="180" cy="180" r="150" style="stroke:#fec002; stroke-width:20; fill:none;" />
 
     <!-- QR IC -->
     <image x="80" y="350" height="180" width="180" xlink:href="./img/github.png" />
