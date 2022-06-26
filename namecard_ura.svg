@@ -17,16 +17,17 @@
     <circle cx="50" cy="275" r="20" style="fill:#FFFFFF;" />
     <circle cx="50" cy="275" r="20" style="stroke:#fec002; stroke-width:10; fill:none;" />
 
-    <!-- 名前テキスト -->
-    <text x="60" y="100" font-size="60" font-weight="bold">About Me:</text>
-    <text x="100" y="160" font-size="30" font-weight="bold">組み込みエンジニア</text>
-    <text x="140" y="200" font-size="30">CPU、FPGAが好き。</text>
-    <text x="100" y="260" font-size="30" font-weight="bold">Webプログラマ</text>
-    <text x="140" y="300" font-size="30">TSをいじって日銭を稼いでます。</text>
-    <text x="100" y="360" font-size="30" font-weight="bold">半導体の研究者</text>
-    <text x="140" y="400" font-size="30">光デバイスを作ってます。</text>
-    <text x="100" y="460" font-size="30" font-weight="bold">うｐ主</text>
-    <text x="140" y="500" font-size="30">ニコニコ技術部に投稿してます。さとうささら推し。</text>
-
+    <!-- テキスト -->
+    <g font-size="30" style="fill:hsl(0, 100%, 0%);">
+        <text x="60" y="100" font-size="60" font-weight="bold">About Me:</text>
+        <text x="100" y="160" font-weight="bold">組み込みエンジニア</text>
+        <text x="140" y="200">CPUを作る。FPGAで遊ぶ。</text>
+        <text x="100" y="260" font-weight="bold">Webプログラマ</text>
+        <text x="140" y="300">TypeScriptを書いて日銭を稼ぐ。</text>
+        <text x="100" y="360" font-weight="bold">MEMSの研究者</text>
+        <text x="140" y="400">半導体を使って変なデバイスを作る。</text>
+        <text x="100" y="460" font-weight="bold">うｐ主</text>
+        <text x="140" y="500">ニコニコ技術部に投稿してる。さとうささら推し。</text>
+    </g>
 
 </svg>

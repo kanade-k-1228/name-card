@@ -4,6 +4,19 @@
     <rect x="0" y="0" width="910" height="550" fill="hsl(159, 91%, 25%)" />
 
     <!-- 配線 -->
+    <path style="fill:none; stroke-width:5; stroke:hsl(152, 57%, 54%);" stroke-linejoin="round" d="
+        M 300 -10,
+        l 50 50,
+        H 490,
+        a 10 10 180 0 0 10 -10,
+        a 10 10 180 0 1 20 0, v 20, a 10 10 180 0 0 20 0, v -20,
+        a 10 10 180 0 1 20 0, v 20, a 10 10 180 0 0 20 0, v -20,
+        a 10 10 180 0 1 20 0, v 20, a 10 10 180 0 0 20 0, v -20,
+        a 10 10 180 0 1 20 0, v 20, a 10 10 180 0 0 20 0, v -20,
+        a 10 10 180 0 1 20 0, v 20, a 10 10 180 0 0 20 0,
+        a 10 10 180 0 1 10 -10,
+        H 860,
+        l 60 60" />
     <path style="fill:none; stroke-width:15; stroke:hsl(152, 57%, 54%);" stroke-linejoin="round" d="
         M 280 210,
         l 100 100,
